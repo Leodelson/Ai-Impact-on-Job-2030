@@ -1,6 +1,6 @@
-# AI-Impact-on-Jobs-2030
+# AI-Impact-on-Jobs-2030:
 
-## Problem Statement
+## Problem Statement:
 Organizations, workers, and policymakers want to understand how artificial intelligence (AI) will affect different job roles, salaries, education levels, and automation risks by the year 2030. Without proper planning, a large portion of the workforce may face unemployment, reduced earning potential, or limited career mobility due to AI-driven job disruption.
 
 ### Analyst: Leo  
@@ -8,13 +8,13 @@ Organizations, workers, and policymakers want to understand how artificial intel
 
 ---
 
-## Overview of AI Job Impact Dashboard
+## Overview of AI Job Impact Dashboard:
 <img width="832" height="501" alt="Ai Impact on Job" src="https://github.com/user-attachments/assets/fdc2683f-e52a-4fb0-8621-3421819b1591" />
 
 
 This project analyzes how AI may reshape the workforce by 2030. The dashboard highlights automation risk, salary trends, education growth factors, and AI exposure levels. These insights help businesses, educators, and governments prepare for future skill demands and workforce transitions.
 
-## KPI Cards (Top Dashboard Metrics)
+## KPI Cards (Top Dashboard Metrics):
 <img width="753" height="50" alt="Cards for Ai" src="https://github.com/user-attachments/assets/0eb98f84-7639-4868-b546-e249232121e0" />
 
 ### Total Salary Impact: **$14,693,064**
